@@ -13,7 +13,7 @@
 	color: black;
 	padding: 13px 8px;
 	text-shadow: 1px 3px 2px black;
-	font-family: 'Press Start 2P', Times New Roman ;	
+	font-family: Times New Roman ;	
 	text-align: center;
 }
 
@@ -44,7 +44,7 @@ header nav.menu-nav ul li.btn{
 		padding: 13px 8px;
 		text-shadow: 1px 3px 2px black;
 		color: white;
-		font-family: 'Press Start 2P', Times New Roman ;	
+		font-family: Times New Roman ;	
 	}
 
 header nav.menu-nav ul li.btn:hover a{
@@ -64,7 +64,7 @@ header nav.menu-nav{
 }
 
 h1{
-	font-family: 'Press Start 2P', Times New Roman ;
+	font-family: Times New Roman ;
 	color: blue;
 	padding: 30;
 	text-align: center;
@@ -89,11 +89,11 @@ body{
 }
 
 nav.TGGC{
-	color: #C21818;
+	color: blue;
 	font-size: 40px;
 	list-style-type: none ;
 	text-align: center;
-	font-family: 'Press Start 2P', Times New Roman ;
+	font-family: Times New Roman ;
 	text-shadow: 1px 3px 2px black;
 	margin: 20px;
 }
@@ -107,7 +107,7 @@ nav.TGGC:hover{
 }
 
 nav.scans li{
-	font-family: 'Press Start 2P', Times New Roman;
+	font-family: Times New Roman;
 	padding: 10;
 	text-align: center;
 	font-size: 2em;
@@ -126,7 +126,7 @@ nav.scans li.scan:hover{
 p{
 	color: white;
 	text-align: center;
-	font-family: 'Press Start 2P', Times New Roman ;
+	font-family: Times New Roman ;
 	text-shadow: 1px 3px 2px black;
 }
 
@@ -140,7 +140,7 @@ p{
 
 a{
 	text-decoration: none;
-	color: #F2A010;
+	color: blue;
 }
 
 #deuxiemetrait{
@@ -163,5 +163,5 @@ footer{
 	padding-top: 10px ;
 	width: 100%;
 	text-shadow: 1px 1px 1px black;
-	font-family: 'Press Start 2P', Times New Roman ;
+	font-family: Times New Roman ;
 }

@@ -12,7 +12,6 @@
 #sidebar li.btn{
 	color: black;
 	padding: 13px 8px;
-	text-shadow: 1px 3px 2px black;
 	font-family: Times New Roman ;	
 	text-align: center;
 }
@@ -42,7 +41,6 @@ header nav.menu-nav ul li.btn{
 		/* text-align: center;
 		display: inline-block; */
 		padding: 13px 8px;
-		text-shadow: 1px 3px 2px black;
 		color: white;
 		font-family: Times New Roman ;	
 	}
@@ -60,7 +58,6 @@ header nav.menu-nav{
 	position: fixed;
 	width: 100%;
 	opacity: 0.9;
-	text-shadow: 1px 3px 2px black;
 }
 
 h1{
@@ -69,7 +66,6 @@ h1{
 	padding: 30;
 	text-align: center;
 	font-size: 3em;
-	text-shadow: 1px 3px 2px black /*(largeur, décalage, opacité, couleur)*/;
 }
 
 /*******IMAGE DE FOND ********/
@@ -94,7 +90,6 @@ nav.TGGC{
 	list-style-type: none ;
 	text-align: center;
 	font-family: Times New Roman ;
-	text-shadow: 1px 3px 2px black;
 	margin: 20px;
 }
 
@@ -111,7 +106,6 @@ nav.scans li{
 	padding: 10;
 	text-align: center;
 	font-size: 2em;
-	text-shadow: 1px 3px 2px black;
 	font-style: bold;
 	list-style-type: none;
 }
@@ -127,7 +121,6 @@ p{
 	color: white;
 	text-align: center;
 	font-family: Times New Roman ;
-	text-shadow: 1px 3px 2px black;
 }
 
 #premiertrait{
@@ -162,6 +155,5 @@ footer{
 	display: inline-block;
 	padding-top: 10px ;
 	width: 100%;
-	text-shadow: 1px 1px 1px black;
 	font-family: Times New Roman ;
 }

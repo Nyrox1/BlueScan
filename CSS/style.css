@@ -10,9 +10,9 @@
 }
 
 #sidebar li.btn{
-	color: black;
+	color: purple;
 	padding: 13px 8px;
-	text-shadow: 1px 3px 2px black;
+	text-shadow: 1px 3px 2px red;
 	font-family: 'Press Start 2P', Times New Roman ;	
 	text-align: center;
 }

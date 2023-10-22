@@ -24,7 +24,7 @@
 
 .toggle-btn span{
 	display: block;
-	background-color: blue;
+	background-color: #c4c8cc;
 	width: 30px;
 	height: 5px;
 	margin: 3px;
@@ -41,7 +41,7 @@ header nav.menu-nav ul li.btn{
 		/* text-align: center;
 		display: inline-block; */
 		padding: 13px 8px;
-		color: white;
+		color: #c4c8cc;
 		font-family: Times New Roman ;	
 	}
 
@@ -85,7 +85,7 @@ body{
 }
 
 nav.TGGC{
-	color: blue;
+	color: #c4c8cc;
 	font-size: 40px;
 	list-style-type: none ;
 	text-align: center;
@@ -95,7 +95,7 @@ nav.TGGC{
 
 nav.TGGC:hover{
 	list-style-type: none ;
-	color: white;
+	color: #c4c8cc;
 	opacity: 0.5;
 	transform: scale(1.05);
 	transition: 0.9 ease-in-out;
@@ -111,14 +111,14 @@ nav.scans li{
 }
 
 nav.scans li.scan:hover{
-	color: white;
+	color: #c4c8cc;
 	opacity: 0.5;
 	transform: scale(1.05);
 	transition: 0.9 ease-in-out;
 }
 
 p{
-	color: white;
+	color: #c4c8cc;
 	text-align: center;
 	font-family: Times New Roman ;
 }
@@ -127,7 +127,7 @@ p{
 	height: 2px;
 	width: 50%;
 	margin: -3px auto;
-	background-color: #fff;
+	background-color: #c4c8cc;
 	box-shadow: 1px 3px 2px black;
 }
 
@@ -140,14 +140,14 @@ a{
 	height: 2px;
 	width: 50%;
 	margin: 3px auto;
-	background-color: #fff;
+	background-color: #c4c8cc;
 	box-shadow: 1px 3px 2px black;
 }
 
 #copyright{
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: white;
+	color: #c4c8cc;
 }
 
 footer{
